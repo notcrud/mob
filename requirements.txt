@@ -1,0 +1,4 @@
+flask
+blitzdb
+requests
+six
