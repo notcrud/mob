@@ -55,3 +55,7 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Blitzdb data stores
+test-db/
+mob-db/
